@@ -6,3 +6,16 @@ color: red
 ul {
     color:blue
 }
+
+h1 {
+    color:aqua
+}
+#borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 round;
+  }
+
+  img {
+    border-radius: 8px;
+  }
