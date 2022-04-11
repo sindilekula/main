@@ -1,14 +1,19 @@
 body {
 font-family: sans-serif;
-color: red
+color: blueviolet
 }
 
 ul {
-    color:blue
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif ;
+  color: blue
 }
 
 h1 {
-    color:aqua
+  text-align: center;
+  font-size: larger;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:black
 }
 #borderimg {
     border: 10px solid transparent;
@@ -19,3 +24,11 @@ h1 {
   img {
     border-radius: 8px;
   }
+
+  body {
+    background-color: lightblue;
+  }
+
+  /*body {
+    background-image: url("/cassettes.jpg");
+  }*/
